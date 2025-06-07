@@ -1,0 +1,33 @@
+[
+    {
+      "company_name": "MediCore Health",
+      "location": "San Francisco, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "Golden Builders",
+      "location": "Los Angeles, CA",
+      "sector": "Construction",
+      "region": "California"
+    },
+    {
+      "company_name": "RetailXpress",
+      "location": "Dallas, TX",
+      "sector": "Retail",
+      "region": "Texas"
+    },
+    {
+      "company_name": "CareFirst Clinic",
+      "location": "San Diego, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "BuildPro Texas",
+      "location": "Austin, TX",
+      "sector": "Construction",
+      "region": "Texas"
+    }
+  ]
+  
