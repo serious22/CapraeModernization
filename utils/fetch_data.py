@@ -40,24 +40,23 @@ def _score_company_size(employees_count, preference):
     return 0
 
 def _score_revenue_threshold(revenue, threshold_str):
-    """Scores based on revenue matching a threshold string (e.g., '> $1M ARR')."""
-    revenue = _get_numeric_value(None, None, revenue) # Use helper
-    if not threshold_str:
-        return 0
+    revenue = _get_numeric_value(None, None, revenue)
+    if not threshold_str: return 0
 
-    threshold_str = threshold_str.replace(" ", "").lower()
-    
-    try:
-        if ">" in threshold_str:
-            val = _get_numeric_value(None, None, threshold_str.split('>$')[-1].replace('m', '000000').replace('k', '000').replace('arr','').replace('valuation',''))
-            return 25 if revenue > val else 0
-        elif "<" in threshold_str:
-            val = _get_numeric_value(None, None, threshold_str.split('<$')[-1].replace('m', '000000').replace('k', '000').replace('arr','').replace('valuation',''))
-            return 25 if revenue < val else 0
-        # Add more complex parsing for exact values or ranges if needed
-    except (ValueError, IndexError): # Catch errors if split fails or conversion
-        pass
-    return 0
+    # Define thresholds for ranges
+    revenue_map = {
+        "Under $1M": (0, 1000000),
+        "$1M - $5M": (1000000, 5000000),
+        "$5M - $10M": (5000000, 10000000),
+        "$10M - $50M": (10000000, 50000000),
+        "$50M - $100M": (50000000, 100000000),
+        "Over $100M": (100000000, float('inf'))
+    }
+
+    if threshold_str in revenue_map:
+        min_val, max_val = revenue_map[threshold_str]
+        return 25 if min_val <= revenue < max_val else 0
+    return 0 # No match
 
 def _score_investment_stage(year_founded, employees_count, revenue, funding_status, stage_preference):
     """Infers company stage and scores based on user preference."""
