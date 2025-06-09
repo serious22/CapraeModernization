@@ -1,33 +1,122 @@
 [
-    {
-      "company_name": "MediCore Health",
+  {
+    "company_name": "MediCore Health",
+    "location": "San Francisco, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "Golden Builders",
+    "location": "Los Angeles, CA",
+    "sector": "Construction",
+    "region": "California"
+  },
+  {
+    "company_name": "RetailXpress",
+    "location": "Dallas, TX",
+    "sector": "Retail",
+    "region": "Texas"
+  },
+  {
+    "company_name": "CareFirst Clinic",
+    "location": "San Diego, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "BuildPro Texas",
+    "location": "Austin, TX",
+    "sector": "Construction",
+    "region": "Texas"
+  },
+  {
+    "company_name": "TechInnovate Solutions",
+    "location": "Seattle, WA",
+    "sector": "Software",
+    "region": "Washington"
+  },
+  {
+    "company_name": "GreenEnergy Corp",
+    "location": "Portland, OR",
+    "sector": "Renewable Energy",
+    "region": "Oregon"
+  },
+  {
+    "company_name": "FinSmart Advisors",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "EduConnect Inc.",
+    "location": "Boston, MA",
+    "sector": "Education",
+    "region": "Massachusetts"
+  },
+  {
+    "company_name": "FoodFusion Bistro",
+    "location": "Miami, FL",
+    "sector": "Food & Beverage",
+    "region": "Florida"
+  },
+  {
+      "company_name": "Quantum Robotics",
+      "location": "San Jose, CA",
+      "sector": "Technology",
+      "region": "California"
+  },
+  {
+      "company_name": "EcoBuild Materials",
+      "location": "Sacramento, CA",
+      "sector": "Construction",
+      "region": "California"
+  },
+  {
+      "company_name": "FashionFlow Brands",
+      "location": "New York, NY",
+      "sector": "Retail",
+      "region": "New York"
+  },
+  {
+      "company_name": "CyberGuard Systems",
+      "location": "Austin, TX",
+      "sector": "Software",
+      "region": "Texas"
+  },
+  {
+      "company_name": "Global Logistics Hub",
+      "location": "Dallas, TX",
+      "sector": "Logistics",
+      "region": "Texas"
+  },
+  {
+      "company_name": "HealthTech Innovations",
       "location": "San Francisco, CA",
       "sector": "Healthcare",
       "region": "California"
-    },
-    {
-      "company_name": "Golden Builders",
+  },
+  {
+      "company_name": "BuildWise Consulting",
       "location": "Los Angeles, CA",
-      "sector": "Construction",
+      "sector": "Consulting",
       "region": "California"
-    },
-    {
-      "company_name": "RetailXpress",
-      "location": "Dallas, TX",
+  },
+  {
+      "company_name": "E-Commerce Titans",
+      "location": "Seattle, WA",
       "sector": "Retail",
-      "region": "Texas"
-    },
-    {
-      "company_name": "CareFirst Clinic",
-      "location": "San Diego, CA",
-      "sector": "Healthcare",
-      "region": "California"
-    },
-    {
-      "company_name": "BuildPro Texas",
+      "region": "Washington"
+  },
+  {
+      "company_name": "CloudSpark Technologies",
       "location": "Austin, TX",
-      "sector": "Construction",
+      "sector": "Software",
       "region": "Texas"
-    }
-  ]
-  
+  },
+  {
+      "company_name": "PharmaGrowth Labs",
+      "location": "Boston, MA",
+      "sector": "Healthcare",
+      "region": "Massachusetts"
+  }
+]
