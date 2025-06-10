@@ -12,111 +12,675 @@
     "region": "California"
   },
   {
-    "company_name": "RetailXpress",
-    "location": "Dallas, TX",
+    "company_name": "Swift Retail Solutions",
+    "location": "New York, NY",
     "sector": "Retail",
-    "region": "Texas"
+    "region": "New York"
   },
   {
-    "company_name": "CareFirst Clinic",
-    "location": "San Diego, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "BuildPro Texas",
-    "location": "Austin, TX",
-    "sector": "Construction",
-    "region": "Texas"
-  },
-  {
-    "company_name": "TechInnovate Solutions",
+    "company_name": "Innovate Software",
     "location": "Seattle, WA",
     "sector": "Software",
     "region": "Washington"
   },
   {
-    "company_name": "GreenEnergy Corp",
-    "location": "Portland, OR",
+    "company_name": "SolarBright Energy",
+    "location": "Austin, TX",
     "sector": "Renewable Energy",
-    "region": "Oregon"
+    "region": "Texas"
   },
   {
-    "company_name": "FinSmart Advisors",
-    "location": "New York, NY",
+    "company_name": "Apex Finance Group",
+    "location": "Chicago, IL",
     "sector": "Finance",
-    "region": "New York"
+    "region": "Illinois"
   },
   {
-    "company_name": "EduConnect Inc.",
+    "company_name": "EduQuest Learning",
     "location": "Boston, MA",
     "sector": "Education",
     "region": "Massachusetts"
   },
   {
-    "company_name": "FoodFusion Bistro",
-    "location": "Miami, FL",
+    "company_name": "TasteBud Foods",
+    "location": "Portland, OR",
     "sector": "Food & Beverage",
+    "region": "Oregon"
+  },
+  {
+    "company_name": "Quantum Tech Solutions",
+    "location": "San Diego, CA",
+    "sector": "Technology",
+    "region": "California"
+  },
+  {
+    "company_name": "Global Logistics Hub",
+    "location": "Houston, TX",
+    "sector": "Logistics",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Strategy First Consulting",
+    "location": "Miami, FL",
+    "sector": "Consulting",
     "region": "Florida"
   },
   {
-      "company_name": "Quantum Robotics",
-      "location": "San Jose, CA",
-      "sector": "Technology",
-      "region": "California"
+    "company_name": "Urban Spaces Realty",
+    "location": "Newark, NJ",
+    "sector": "Real Estate",
+    "region": "New Jersey"
   },
   {
-      "company_name": "EcoBuild Materials",
-      "location": "Sacramento, CA",
-      "sector": "Construction",
-      "region": "California"
+    "company_name": "Green Harvest Farms",
+    "location": "Sacramento, CA",
+    "sector": "Agriculture",
+    "region": "California"
   },
   {
-      "company_name": "FashionFlow Brands",
-      "location": "New York, NY",
-      "sector": "Retail",
-      "region": "New York"
+    "company_name": "Pharma Innovations",
+    "location": "Philadelphia, PA",
+    "sector": "Pharmaceutical",
+    "region": "Pennsylvania"
   },
   {
-      "company_name": "CyberGuard Systems",
-      "location": "Austin, TX",
-      "sector": "Software",
-      "region": "Texas"
+    "company_name": "DataDriven Health",
+    "location": "Oakland, CA",
+    "sector": "Healthcare",
+    "region": "California"
   },
   {
-      "company_name": "Global Logistics Hub",
-      "location": "Dallas, TX",
-      "sector": "Logistics",
-      "region": "Texas"
+    "company_name": "MegaBuild Contractors",
+    "location": "Dallas, TX",
+    "sector": "Construction",
+    "region": "Texas"
   },
   {
-      "company_name": "HealthTech Innovations",
-      "location": "San Francisco, CA",
-      "sector": "Healthcare",
-      "region": "California"
+    "company_name": "Fashion Forward",
+    "location": "Brooklyn, NY",
+    "sector": "Retail",
+    "region": "New York"
   },
   {
-      "company_name": "BuildWise Consulting",
-      "location": "Los Angeles, CA",
-      "sector": "Consulting",
-      "region": "California"
+    "company_name": "CodeCrafters Inc.",
+    "location": "Redmond, WA",
+    "sector": "Software",
+    "region": "Washington"
   },
   {
-      "company_name": "E-Commerce Titans",
-      "location": "Seattle, WA",
-      "sector": "Retail",
-      "region": "Washington"
+    "company_name": "WindPower Solutions",
+    "location": "San Antonio, TX",
+    "sector": "Renewable Energy",
+    "region": "Texas"
   },
   {
-      "company_name": "CloudSpark Technologies",
-      "location": "Austin, TX",
-      "sector": "Software",
-      "region": "Texas"
+    "company_name": "Wealth Guardians",
+    "location": "Boston, MA",
+    "sector": "Finance",
+    "region": "Massachusetts"
   },
   {
-      "company_name": "PharmaGrowth Labs",
-      "location": "Boston, MA",
-      "sector": "Healthcare",
-      "region": "Massachusetts"
+    "company_name": "Future Minds Academy",
+    "location": "Chicago, IL",
+    "sector": "Education",
+    "region": "Illinois"
+  },
+  {
+    "company_name": "FreshPlate Catering",
+    "location": "Seattle, WA",
+    "sector": "Food & Beverage",
+    "region": "Washington"
+  },
+  {
+    "company_name": "ByteStream Technologies",
+    "location": "Los Angeles, CA",
+    "sector": "Technology",
+    "region": "California"
+  },
+  {
+    "company_name": "Express Freight Co.",
+    "location": "Atlanta, GA",
+    "sector": "Logistics",
+    "region": "Georgia"
+  },
+  {
+    "company_name": "Insight Advisory",
+    "location": "Denver, CO",
+    "sector": "Consulting",
+    "region": "Colorado"
+  },
+  {
+    "company_name": "CityScape Properties",
+    "location": "Orlando, FL",
+    "sector": "Real Estate",
+    "region": "Florida"
+  },
+  {
+    "company_name": "AgriTech Innovators",
+    "location": "Boise, ID",
+    "sector": "Agriculture",
+    "region": "Idaho"
+  },
+  {
+    "company_name": "BioPharm Labs",
+    "location": "Cambridge, MA",
+    "sector": "Pharmaceutical",
+    "region": "Massachusetts"
+  },
+  {
+    "company_name": "CareConnect Systems",
+    "location": "Houston, TX",
+    "sector": "Healthcare",
+    "region": "Texas"
+  },
+  {
+    "company_name": "SteelFrame Construction",
+    "location": "Miami, FL",
+    "sector": "Construction",
+    "region": "Florida"
+  },
+  {
+    "company_name": "EcoFashion Retail",
+    "location": "Portland, OR",
+    "sector": "Retail",
+    "region": "Oregon"
+  },
+  {
+    "company_name": "CyberSecure Software",
+    "location": "Austin, TX",
+    "sector": "Software",
+    "region": "Texas"
+  },
+  {
+    "company_name": "HydroPower Solutions",
+    "location": "New York, NY",
+    "sector": "Renewable Energy",
+    "region": "New York"
+  },
+  {
+    "company_name": "MarketWise Capital",
+    "location": "San Francisco, CA",
+    "sector": "Finance",
+    "region": "California"
+  },
+  {
+    "company_name": "Global EdTech",
+    "location": "Seattle, WA",
+    "sector": "Education",
+    "region": "Washington"
+  },
+  {
+    "company_name": "Gourmet Bites Inc.",
+    "location": "Los Angeles, CA",
+    "sector": "Food & Beverage",
+    "region": "California"
+  },
+  {
+    "company_name": "Visionary AI",
+    "location": "Chicago, IL",
+    "sector": "Technology",
+    "region": "Illinois"
+  },
+  {
+    "company_name": "Rapid Delivery Logistics",
+    "location": "Phoenix, AZ",
+    "sector": "Logistics",
+    "region": "Arizona"
+  },
+  {
+    "company_name": "Growth Catalyst Consulting",
+    "location": "Nashville, TN",
+    "sector": "Consulting",
+    "region": "Tennessee"
+  },
+  {
+    "company_name": "Harmony Homes",
+    "location": "San Jose, CA",
+    "sector": "Real Estate",
+    "region": "California"
+  },
+  {
+    "company_name": "Precision Ag Systems",
+    "location": "Fargo, ND",
+    "sector": "Agriculture",
+    "region": "North Dakota"
+  },
+  {
+    "company_name": "GeneTherapy Innovations",
+    "location": "San Diego, CA",
+    "sector": "Pharmaceutical",
+    "region": "California"
+  },
+  {
+    "company_name": "Wellness Wave",
+    "location": "Miami, FL",
+    "sector": "Healthcare",
+    "region": "Florida"
+  },
+  {
+    "company_name": "Bridge Builders LLC",
+    "location": "New Orleans, LA",
+    "sector": "Construction",
+    "region": "Louisiana"
+  },
+  {
+    "company_name": "Vintage Threads Co.",
+    "location": "Austin, TX",
+    "sector": "Retail",
+    "region": "Texas"
+  },
+  {
+    "company_name": "NextGen Software",
+    "location": "Denver, CO",
+    "sector": "Software",
+    "region": "Colorado"
+  },
+  {
+    "company_name": "Geothermal Power Corp.",
+    "location": "Salt Lake City, UT",
+    "sector": "Renewable Energy",
+    "region": "Utah"
+  },
+  {
+    "company_name": "Equitas Financial",
+    "location": "Atlanta, GA",
+    "sector": "Finance",
+    "region": "Georgia"
+  },
+  {
+    "company_name": "STEM Explorers",
+    "location": "Philadelphia, PA",
+    "sector": "Education",
+    "region": "Pennsylvania"
+  },
+  {
+    "company_name": "Artisan Bakeries",
+    "location": "San Francisco, CA",
+    "sector": "Food & Beverage",
+    "region": "California"
+  },
+  {
+    "company_name": "CloudNine Technologies",
+    "location": "Boston, MA",
+    "sector": "Technology",
+    "region": "Massachusetts"
+  },
+  {
+    "company_name": "Logistics Pro",
+    "location": "Dallas, TX",
+    "sector": "Logistics",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Brand Boost Consulting",
+    "location": "Los Angeles, CA",
+    "sector": "Consulting",
+    "region": "California"
+  },
+  {
+    "company_name": "Grand View Properties",
+    "location": "Orlando, FL",
+    "sector": "Real Estate",
+    "region": "Florida"
+  },
+  {
+    "company_name": "FarmConnect Solutions",
+    "location": "Des Moines, IA",
+    "sector": "Agriculture",
+    "region": "Iowa"
+  },
+  {
+    "company_name": "MediMakers Pharma",
+    "location": "New York, NY",
+    "sector": "Pharmaceutical",
+    "region": "New York"
+  },
+  {
+    "company_name": "ConnectCare Clinics",
+    "location": "San Francisco, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "Solid Foundations Inc.",
+    "location": "Houston, TX",
+    "sector": "Construction",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Urban Threads",
+    "location": "Chicago, IL",
+    "sector": "Retail",
+    "region": "Illinois"
+  },
+  {
+    "company_name": "DataFlow Software",
+    "location": "Seattle, WA",
+    "sector": "Software",
+    "region": "Washington"
+  },
+  {
+    "company_name": "EcoEnergy Solutions",
+    "location": "Los Angeles, CA",
+    "sector": "Renewable Energy",
+    "region": "California"
+  },
+  {
+    "company_name": "Capital Growth Partners",
+    "location": "Boston, MA",
+    "sector": "Finance",
+    "region": "Massachusetts"
+  },
+  {
+    "company_name": "LearnSphere Academy",
+    "location": "Denver, CO",
+    "sector": "Education",
+    "region": "Colorado"
+  },
+  {
+    "company_name": "Taste of the World Catering",
+    "location": "Portland, OR",
+    "sector": "Food & Beverage",
+    "region": "Oregon"
+  },
+  {
+    "company_name": "TechWave Innovations",
+    "location": "San Diego, CA",
+    "sector": "Technology",
+    "region": "California"
+  },
+  {
+    "company_name": "FastTrack Logistics",
+    "location": "Atlanta, GA",
+    "sector": "Logistics",
+    "region": "Georgia"
+  },
+  {
+    "company_name": "Visionary Consulting Group",
+    "location": "Miami, FL",
+    "sector": "Consulting",
+    "region": "Florida"
+  },
+  {
+    "company_name": "Metro Realty Advisors",
+    "location": "Newark, NJ",
+    "sector": "Real Estate",
+    "region": "New Jersey"
+  },
+  {
+    "company_name": "AgriTech Solutions",
+    "location": "Boise, ID",
+    "sector": "Agriculture",
+    "region": "Idaho"
+  },
+  {
+    "company_name": "PharmaNext Labs",
+    "location": "Philadelphia, PA",
+    "sector": "Pharmaceutical",
+    "region": "Pennsylvania"
+  },
+  {
+    "company_name": "HealthBridge Systems",
+    "location": "Oakland, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "BuildRight Contractors",
+    "location": "Dallas, TX",
+    "sector": "Construction",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Chic Boutique Retailers",
+    "location": "Brooklyn, NY",
+    "sector": "Retail",
+    "region": "New York"
+  },
+  {
+    "company_name": "NextGen Innovations Inc.",
+    "location": "Redmond, WA",
+    "sector": "Software",
+    "region": "Washington"
+  },
+  {
+    "company_name": "SolarWave Energy Corp.",
+    "location": "San Antonio, TX",
+    "sector": "Renewable Energy",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Secure Wealth Advisors",
+    "location": "Chicago, IL",
+    "sector": "Finance",
+    "region": "Illinois"
+  },
+  {
+    "company_name": "Future Leaders Academy",
+    "location": "Boston, MA",
+    "sector": "Education",
+    "region": "Massachusetts"
+  },
+  {
+    "company_name": "Gourmet Delights Catering",
+    "location": "Seattle, WA",
+    "sector": "Food & Beverage",
+    "region": "Washington"
+  },
+  {
+    "company_name": "TechSphere Solutions",
+    "location": "Los Angeles, CA",
+    "sector": "Technology",
+    "region": "California"
+  },
+  {
+    "company_name": "SwiftShip Logistics",
+    "location": "Phoenix, AZ",
+    "sector": "Logistics",
+    "region": "Arizona"
+  },
+  {
+    "company_name": "Insightful Strategies",
+    "location": "Nashville, TN",
+    "sector": "Consulting",
+    "region": "Tennessee"
+  },
+  {
+    "company_name": "Skyline Realty Group",
+    "location": "San Jose, CA",
+    "sector": "Real Estate",
+    "region": "California"
+  },
+  {
+    "company_name": "AgriFuture Technologies",
+    "location": "Fargo, ND",
+    "sector": "Agriculture",
+    "region": "North Dakota"
+  },
+  {
+    "company_name": "HealthGenix Pharma",
+    "location": "Cambridge, MA",
+    "sector": "Pharmaceutical",
+    "region": "Massachusetts"
+  },
+  {
+    "company_name": "Empire Capital Advisors",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "Liberty Wealth Management",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "Wall Street Ventures",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "Financial Horizon Corp",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "Greenwich Investment Group",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "Manhattan Equity Partners",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "Hudson River Finance",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "Cityscape Capital",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "Brooklyn Financial Services",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "Staten Island Wealth",
+    "location": "New York, NY",
+    "sector": "Finance",
+    "region": "New York"
+  },
+  {
+    "company_name": "Pacific Wellness Center",
+    "location": "San Diego, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "Golden Gate Hospital",
+    "location": "San Francisco, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "SoCal Medical Group",
+    "location": "Los Angeles, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "Silicon Valley Biotech",
+    "location": "San Jose, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "Central Valley Clinics",
+    "location": "Fresno, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "Coastal Health Initiatives",
+    "location": "Santa Barbara, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "Inland Empire Health",
+    "location": "Riverside, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "NorCal Psychiatric Services",
+    "location": "Oakland, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "Bay Area Pediatrics",
+    "location": "Berkeley, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "Sacramento Care Partners",
+    "location": "Sacramento, CA",
+    "sector": "Healthcare",
+    "region": "California"
+  },
+  {
+    "company_name": "Lone Star Software",
+    "location": "Dallas, TX",
+    "sector": "Software",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Tech Frontier Solutions",
+    "location": "Austin, TX",
+    "sector": "Software",
+    "region": "Texas"
+  },
+  {
+    "company_name": "CyberTexas Innovations",
+    "location": "Houston, TX",
+    "sector": "Software",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Alamo City Dev",
+    "location": "San Antonio, TX",
+    "sector": "Software",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Plains Code Co.",
+    "location": "Amarillo, TX",
+    "sector": "Software",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Rio Grande Tech",
+    "location": "El Paso, TX",
+    "sector": "Software",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Gulf Coast Software",
+    "location": "Corpus Christi, TX",
+    "sector": "Software",
+    "region": "Texas"
+  },
+  {
+    "company_name": "North Texas Data",
+    "location": "Fort Worth, TX",
+    "sector": "Software",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Central Texas AI",
+    "location": "Waco, TX",
+    "sector": "Software",
+    "region": "Texas"
+  },
+  {
+    "company_name": "Silicon Prairie Systems",
+    "location": "Plano, TX",
+    "sector": "Software",
+    "region": "Texas"
   }
 ]
