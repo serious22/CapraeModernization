@@ -1,0 +1,6 @@
+streamlit==1.33.0
+pandas==2.2.2
+scikit-learn==1.4.2 # Added for RandomForestRegressor, StandardScaler, OneHotEncoder
+joblib==1.4.2      # Added for saving/loading models
+# tensorflow==2.16.1 # Added as requested, though primarily using scikit-learn for ranking here.
+numpy==1.26.4 # Often a dependency of scikit-learn/tensorflow

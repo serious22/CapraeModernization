@@ -359,328 +359,185 @@
     "sector": "Software",
     "region": "Washington"
   },
-  {
-    "company_name": "EcoEnergy Solutions",
-    "location": "Los Angeles, CA",
-    "sector": "Renewable Energy",
-    "region": "California"
-  },
-  {
-    "company_name": "Capital Growth Partners",
-    "location": "Boston, MA",
-    "sector": "Finance",
-    "region": "Massachusetts"
-  },
-  {
-    "company_name": "LearnSphere Academy",
-    "location": "Denver, CO",
-    "sector": "Education",
-    "region": "Colorado"
-  },
-  {
-    "company_name": "Taste of the World Catering",
-    "location": "Portland, OR",
-    "sector": "Food & Beverage",
-    "region": "Oregon"
-  },
-  {
-    "company_name": "TechWave Innovations",
-    "location": "San Diego, CA",
-    "sector": "Technology",
-    "region": "California"
-  },
-  {
-    "company_name": "FastTrack Logistics",
-    "location": "Atlanta, GA",
-    "sector": "Logistics",
-    "region": "Georgia"
-  },
-  {
-    "company_name": "Visionary Consulting Group",
-    "location": "Miami, FL",
-    "sector": "Consulting",
-    "region": "Florida"
-  },
-  {
-    "company_name": "Metro Realty Advisors",
-    "location": "Newark, NJ",
-    "sector": "Real Estate",
-    "region": "New Jersey"
-  },
-  {
-    "company_name": "AgriTech Solutions",
-    "location": "Boise, ID",
-    "sector": "Agriculture",
-    "region": "Idaho"
-  },
-  {
-    "company_name": "PharmaNext Labs",
-    "location": "Philadelphia, PA",
-    "sector": "Pharmaceutical",
-    "region": "Pennsylvania"
-  },
-  {
-    "company_name": "HealthBridge Systems",
-    "location": "Oakland, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "BuildRight Contractors",
-    "location": "Dallas, TX",
-    "sector": "Construction",
-    "region": "Texas"
-  },
-  {
-    "company_name": "Chic Boutique Retailers",
-    "location": "Brooklyn, NY",
-    "sector": "Retail",
-    "region": "New York"
-  },
-  {
-    "company_name": "NextGen Innovations Inc.",
-    "location": "Redmond, WA",
-    "sector": "Software",
-    "region": "Washington"
-  },
-  {
-    "company_name": "SolarWave Energy Corp.",
-    "location": "San Antonio, TX",
-    "sector": "Renewable Energy",
-    "region": "Texas"
-  },
-  {
-    "company_name": "Secure Wealth Advisors",
-    "location": "Chicago, IL",
-    "sector": "Finance",
-    "region": "Illinois"
-  },
-  {
-    "company_name": "Future Leaders Academy",
-    "location": "Boston, MA",
-    "sector": "Education",
-    "region": "Massachusetts"
-  },
-  {
-    "company_name": "Gourmet Delights Catering",
-    "location": "Seattle, WA",
-    "sector": "Food & Beverage",
-    "region": "Washington"
-  },
-  {
-    "company_name": "TechSphere Solutions",
-    "location": "Los Angeles, CA",
-    "sector": "Technology",
-    "region": "California"
-  },
-  {
-    "company_name": "SwiftShip Logistics",
-    "location": "Phoenix, AZ",
-    "sector": "Logistics",
-    "region": "Arizona"
-  },
-  {
-    "company_name": "Insightful Strategies",
-    "location": "Nashville, TN",
-    "sector": "Consulting",
-    "region": "Tennessee"
-  },
-  {
-    "company_name": "Skyline Realty Group",
-    "location": "San Jose, CA",
-    "sector": "Real Estate",
-    "region": "California"
-  },
-  {
-    "company_name": "AgriFuture Technologies",
-    "location": "Fargo, ND",
-    "sector": "Agriculture",
-    "region": "North Dakota"
-  },
-  {
-    "company_name": "HealthGenix Pharma",
-    "location": "Cambridge, MA",
-    "sector": "Pharmaceutical",
-    "region": "Massachusetts"
-  },
-  {
-    "company_name": "Empire Capital Advisors",
-    "location": "New York, NY",
-    "sector": "Finance",
-    "region": "New York"
-  },
-  {
-    "company_name": "Liberty Wealth Management",
-    "location": "New York, NY",
-    "sector": "Finance",
-    "region": "New York"
-  },
-  {
-    "company_name": "Wall Street Ventures",
-    "location": "New York, NY",
-    "sector": "Finance",
-    "region": "New York"
-  },
-  {
-    "company_name": "Financial Horizon Corp",
-    "location": "New York, NY",
-    "sector": "Finance",
-    "region": "New York"
-  },
-  {
-    "company_name": "Greenwich Investment Group",
-    "location": "New York, NY",
-    "sector": "Finance",
-    "region": "New York"
-  },
-  {
-    "company_name": "Manhattan Equity Partners",
-    "location": "New York, NY",
-    "sector": "Finance",
-    "region": "New York"
-  },
-  {
-    "company_name": "Hudson River Finance",
-    "location": "New York, NY",
-    "sector": "Finance",
-    "region": "New York"
-  },
-  {
-    "company_name": "Cityscape Capital",
-    "location": "New York, NY",
-    "sector": "Finance",
-    "region": "New York"
-  },
-  {
-    "company_name": "Brooklyn Financial Services",
-    "location": "New York, NY",
-    "sector": "Finance",
-    "region": "New York"
-  },
-  {
-    "company_name": "Staten Island Wealth",
-    "location": "New York, NY",
-    "sector": "Finance",
-    "region": "New York"
-  },
-  {
-    "company_name": "Pacific Wellness Center",
-    "location": "San Diego, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "Golden Gate Hospital",
-    "location": "San Francisco, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "SoCal Medical Group",
-    "location": "Los Angeles, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "Silicon Valley Biotech",
-    "location": "San Jose, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "Central Valley Clinics",
-    "location": "Fresno, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "Coastal Health Initiatives",
-    "location": "Santa Barbara, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "Inland Empire Health",
-    "location": "Riverside, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "NorCal Psychiatric Services",
-    "location": "Oakland, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "Bay Area Pediatrics",
-    "location": "Berkeley, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "Sacramento Care Partners",
-    "location": "Sacramento, CA",
-    "sector": "Healthcare",
-    "region": "California"
-  },
-  {
-    "company_name": "Lone Star Software",
-    "location": "Dallas, TX",
-    "sector": "Software",
-    "region": "Texas"
-  },
-  {
-    "company_name": "Tech Frontier Solutions",
-    "location": "Austin, TX",
-    "sector": "Software",
-    "region": "Texas"
-  },
-  {
-    "company_name": "CyberTexas Innovations",
-    "location": "Houston, TX",
-    "sector": "Software",
-    "region": "Texas"
-  },
-  {
-    "company_name": "Alamo City Dev",
-    "location": "San Antonio, TX",
-    "sector": "Software",
-    "region": "Texas"
-  },
-  {
-    "company_name": "Plains Code Co.",
-    "location": "Amarillo, TX",
-    "sector": "Software",
-    "region": "Texas"
-  },
-  {
-    "company_name": "Rio Grande Tech",
-    "location": "El Paso, TX",
-    "sector": "Software",
-    "region": "Texas"
-  },
-  {
-    "company_name": "Gulf Coast Software",
-    "location": "Corpus Christi, TX",
-    "sector": "Software",
-    "region": "Texas"
-  },
-  {
-    "company_name": "North Texas Data",
-    "location": "Fort Worth, TX",
-    "sector": "Software",
-    "region": "Texas"
-  },
-  {
-    "company_name": "Central Texas AI",
-    "location": "Waco, TX",
-    "sector": "Software",
-    "region": "Texas"
-  },
-  {
-    "company_name": "Silicon Prairie Systems",
-    "location": "Plano, TX",
-    "sector": "Software",
-    "region": "Texas"
-  }
-]
+    {
+      "company_name": "Empire Capital Advisors",
+      "location": "New York, NY",
+      "sector": "Finance",
+      "region": "New York"
+    },
+    {
+      "company_name": "Liberty Wealth Management",
+      "location": "New York, NY",
+      "sector": "Finance",
+      "region": "New York"
+    },
+    {
+      "company_name": "Wall Street Ventures",
+      "location": "New York, NY",
+      "sector": "Finance",
+      "region": "New York"
+    },
+    {
+      "company_name": "Financial Horizon Corp",
+      "location": "New York, NY",
+      "sector": "Finance",
+      "region": "New York"
+    },
+    {
+      "company_name": "Greenwich Investment Group",
+      "location": "New York, NY",
+      "sector": "Finance",
+      "region": "New York"
+    },
+    {
+      "company_name": "Manhattan Equity Partners",
+      "location": "New York, NY",
+      "sector": "Finance",
+      "region": "New York"
+    },
+    {
+      "company_name": "Hudson River Finance",
+      "location": "New York, NY",
+      "sector": "Finance",
+      "region": "New York"
+    },
+    {
+      "company_name": "Cityscape Capital",
+      "location": "New York, NY",
+      "sector": "Finance",
+      "region": "New York"
+    },
+    {
+      "company_name": "Brooklyn Financial Services",
+      "location": "New York, NY",
+      "sector": "Finance",
+      "region": "New York"
+    },
+    {
+      "company_name": "Staten Island Wealth",
+      "location": "New York, NY",
+      "sector": "Finance",
+      "region": "New York"
+    },
+    {
+      "company_name": "Pacific Wellness Center",
+      "location": "San Diego, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "Golden Gate Hospital",
+      "location": "San Francisco, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "SoCal Medical Group",
+      "location": "Los Angeles, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "Silicon Valley Biotech",
+      "location": "San Jose, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "Central Valley Clinics",
+      "location": "Fresno, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "Coastal Health Initiatives",
+      "location": "Santa Barbara, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "Inland Empire Health",
+      "location": "Riverside, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "NorCal Psychiatric Services",
+      "location": "Oakland, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "Bay Area Pediatrics",
+      "location": "Berkeley, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "Sacramento Care Partners",
+      "location": "Sacramento, CA",
+      "sector": "Healthcare",
+      "region": "California"
+    },
+    {
+      "company_name": "Lone Star Software",
+      "location": "Dallas, TX",
+      "sector": "Software",
+      "region": "Texas"
+    },
+    {
+      "company_name": "Tech Frontier Solutions",
+      "location": "Austin, TX",
+      "sector": "Software",
+      "region": "Texas"
+    },
+    {
+      "company_name": "CyberTexas Innovations",
+      "location": "Houston, TX",
+      "sector": "Software",
+      "region": "Texas"
+    },
+    {
+      "company_name": "Alamo City Dev",
+      "location": "San Antonio, TX",
+      "sector": "Software",
+      "region": "Texas"
+    },
+    {
+      "company_name": "Plains Code Co.",
+      "location": "Amarillo, TX",
+      "sector": "Software",
+      "region": "Texas"
+    },
+    {
+      "company_name": "Rio Grande Tech",
+      "location": "El Paso, TX",
+      "sector": "Software",
+      "region": "Texas"
+    },
+    {
+      "company_name": "Gulf Coast Software",
+      "location": "Corpus Christi, TX",
+      "sector": "Software",
+      "region": "Texas"
+    },
+    {
+      "company_name": "North Texas Data",
+      "location": "Fort Worth, TX",
+      "sector": "Software",
+      "region": "Texas"
+    },
+    {
+      "company_name": "Central Texas AI",
+      "location": "Waco, TX",
+      "sector": "Software",
+      "region": "Texas"
+    },
+    {
+      "company_name": "Silicon Prairie Systems",
+      "location": "Plano, TX",
+      "sector": "Software",
+      "region": "Texas"
+    }
+  ]
+  

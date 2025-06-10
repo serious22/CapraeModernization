@@ -1,3 +1,5 @@
+#THIS VERSION IS DEPRECATED, THIS IS NOT USING MACHINE LEARNING, STILL IF YOU WISH TO TEST MANUAL LOGIC FOR RANKING THE COMPANIES SHIFT THIS FILE TO 'pages'.
+
 import streamlit as st
 import pandas as pd
 from utils.fetch_data import fetch_raw_leads, fetch_enriched_leads, rank_enriched_leads
